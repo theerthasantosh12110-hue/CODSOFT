@@ -3,8 +3,9 @@ Tasks Completed:
 Calculator
 Password Generator
 Rock Paper Scissors Game
+To-Do List
+Contact Book
+
 Description:
-
 This repository contains Python projects completed as part of the CodSoft Internship.
-
 Each program is written in Python and demonstrates basic programming concepts.
